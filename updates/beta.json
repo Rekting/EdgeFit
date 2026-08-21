@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "product": "EdgeFit",
+  "channel": "beta",
+  "version": "0.00",
+  "minimumSupportedVersion": "1.00",
+  "publishedAtUtc": null,
+  "releaseNotesUrl": "",
+  "supportedRuntimes": [
+    "win-x64",
+    "win-arm64"
+  ],
+  "packages": []
+}
