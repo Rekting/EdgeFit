@@ -1,25 +1,22 @@
 # EdgeFit
 
-**EdgeFit by Rekting** is a Windows utility for defining usable Safe Areas on
-displays whose physical edges are covered, overlapped or otherwise unusable.
+Official public distribution repository for **EdgeFit by Rekting**.
 
-## Downloads
+This repository contains public product documentation, the Stable update
+manifest and GitHub Releases. The complete source remains in the private
+`Rekting/EdgeFit-Source` repository.
 
-Official compiled builds are published through GitHub Releases.
+## Stable releases
 
-Supported architectures:
+Only the Stable channel is published publicly. Official downloads will be
+available from this repository's GitHub Releases page and referenced by
+`updates/stable.json` after release validation.
 
-- Windows x64
-- Windows ARM64
+No Stable package has been published yet.
 
-## Update channels
+## Security
 
-- Stable
-- Beta
-- Development
+Treat a package as official only when it is published in this repository and
+its SHA-256 value matches the official Stable manifest.
 
-Update manifests are published under `updates/`.
-
-Official website: https://rekting.pt
-
-Copyright © 2026 Rekting.
+Website: https://rekting.pt

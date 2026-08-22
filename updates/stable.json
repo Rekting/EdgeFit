@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "product": "EdgeFit",
   "channel": "stable",
-  "version": "0.00",
-  "minimumSupportedVersion": "1.00",
+  "version": "0.0.0.0",
+  "minimumSupportedVersion": "1.1.0.0",
   "publishedAtUtc": null,
   "releaseNotesUrl": "",
   "supportedRuntimes": [
