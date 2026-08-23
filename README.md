@@ -15,7 +15,7 @@ The current Stable release is **EdgeFit 1.2.1.0** for Windows 10 and Windows
 11 on x64 and ARM64.
 
 - [Install or update EdgeFit](https://github.com/Rekting/EdgeFit/releases/latest/download/EdgeFit.appinstaller)
-- [Download the MSIX bundle manually](https://github.com/Rekting/EdgeFit/releases/latest/download/EdgeFit-v1.2.1.0.msixbundle)
+- [Download the 1.2.1.0 MSIX bundle manually](https://github.com/Rekting/EdgeFit/releases/download/v1.2.1.0/EdgeFit-v1.2.1.0.msixbundle)
 
 The App Installer feed is the recommended option because Windows can detect
 future Stable updates automatically.
