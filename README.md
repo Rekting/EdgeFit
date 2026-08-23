@@ -9,14 +9,21 @@ manifest and GitHub Releases. The complete source remains in the private
 ## Stable releases
 
 Only the Stable channel is published publicly. Official downloads will be
-available from this repository's GitHub Releases page and referenced by
-`updates/stable.json` after release validation.
+available from this repository's GitHub Releases page.
 
-No Stable package has been published yet.
+The current Stable release is **EdgeFit 1.2.1.0** for Windows 10 and Windows
+11 on x64 and ARM64.
+
+- [Install or update EdgeFit](https://github.com/Rekting/EdgeFit/releases/latest/download/EdgeFit.appinstaller)
+- [Download the MSIX bundle manually](https://github.com/Rekting/EdgeFit/releases/latest/download/EdgeFit-v1.2.1.0.msixbundle)
+
+The App Installer feed is the recommended option because Windows can detect
+future Stable updates automatically.
 
 ## Security
 
-Treat a package as official only when it is published in this repository and
-its SHA-256 value matches the official Stable manifest.
+Treat a package as official only when it is published in this repository, its
+Windows signature is valid for `CN=Rekting`, and its SHA-256 value matches the
+checksum attached to the release.
 
 Website: https://rekting.pt
