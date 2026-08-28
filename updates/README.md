@@ -1,9 +1,10 @@
 # EdgeFit update manifests
 
-Machine-readable Stable release pointer:
+Stable updates now use the signed Windows App Installer file attached to the
+latest GitHub Release:
 
-- `stable.json`
+- `https://github.com/Rekting/EdgeFit/releases/latest/download/EdgeFit.appinstaller`
 
-It is generated from the private `Rekting/EdgeFit-Source` repository only after
-Stable build, signature and release validation. Beta and Development channels
-are not published in this public repository.
+`stable.json` remains only as a retired compatibility placeholder. New EdgeFit
+versions do not read it. Beta and Development packages are not published in
+this public repository.
