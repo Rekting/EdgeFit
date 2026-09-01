@@ -2,13 +2,30 @@
   "schemaVersion": 1,
   "product": "EdgeFit",
   "channel": "stable",
-  "version": "0.0.0.0",
+  "version": "1.2.2.8",
   "minimumSupportedVersion": "1.1.0.0",
-  "publishedAtUtc": null,
-  "releaseNotesUrl": "",
+  "publishedAtUtc": "2026-09-01T09:35:52.8768884Z",
+  "releaseNotesUrl": "https://github.com/Rekting/EdgeFit/releases/tag/v1.2.2.8",
   "supportedRuntimes": [
     "win-x64",
     "win-arm64"
   ],
-  "packages": []
+  "packages": [
+    {
+      "runtime": "win-x64",
+      "file": "EdgeFit-Rekting-v1.2.2.8-win-x64.zip",
+      "downloadUrl": "https://github.com/Rekting/EdgeFit/releases/download/v1.2.2.8/EdgeFit-Rekting-v1.2.2.8-win-x64.zip",
+      "sha256": "d7db0494ab65e8780f015587f93c1126df5aae26cb7bdde5aaad3b6de09f4824",
+      "executableSha256": "1e06cc1c7df9ae355709ca6d1c64a1a175d899debc1fed746874707d76306283",
+      "sizeBytes": 54965498
+    },
+    {
+      "runtime": "win-arm64",
+      "file": "EdgeFit-Rekting-v1.2.2.8-win-arm64.zip",
+      "downloadUrl": "https://github.com/Rekting/EdgeFit/releases/download/v1.2.2.8/EdgeFit-Rekting-v1.2.2.8-win-arm64.zip",
+      "sha256": "e955e4e8e3f8d933c06d4f01ba20cfd33aad133589df0b85fbfc7c63e4cf78a0",
+      "executableSha256": "14170f9be1c7b53420d398aa78a24d1a570c8cad7a681b7004e36ee7e96f3879",
+      "sizeBytes": 52781920
+    }
+  ]
 }
