@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "product": "EdgeFit",
   "channel": "stable",
-  "version": "1.2.2.8",
+  "version": "1.2.2.9",
   "minimumSupportedVersion": "1.1.0.0",
-  "publishedAtUtc": "2026-09-01T09:35:52.8768884Z",
-  "releaseNotesUrl": "https://github.com/Rekting/EdgeFit/releases/tag/v1.2.2.8",
+  "publishedAtUtc": "2026-09-01T10:08:54.1839904Z",
+  "releaseNotesUrl": "https://github.com/Rekting/EdgeFit/releases/tag/v1.2.2.9",
   "supportedRuntimes": [
     "win-x64",
     "win-arm64"
@@ -13,19 +13,19 @@
   "packages": [
     {
       "runtime": "win-x64",
-      "file": "EdgeFit-Rekting-v1.2.2.8-win-x64.zip",
-      "downloadUrl": "https://github.com/Rekting/EdgeFit/releases/download/v1.2.2.8/EdgeFit-Rekting-v1.2.2.8-win-x64.zip",
-      "sha256": "d7db0494ab65e8780f015587f93c1126df5aae26cb7bdde5aaad3b6de09f4824",
-      "executableSha256": "1e06cc1c7df9ae355709ca6d1c64a1a175d899debc1fed746874707d76306283",
-      "sizeBytes": 54965498
+      "file": "EdgeFit-Rekting-v1.2.2.9-win-x64.zip",
+      "downloadUrl": "https://github.com/Rekting/EdgeFit/releases/download/v1.2.2.9/EdgeFit-Rekting-v1.2.2.9-win-x64.zip",
+      "sha256": "64343073d7cfd6c7bca403d09ac77935f62bf5bce671a47998ded306c6ea486f",
+      "executableSha256": "59a22ab71ea21451910b0a89a799f91f228d42211601be1c8dc2c1d995213fce",
+      "sizeBytes": 54965509
     },
     {
       "runtime": "win-arm64",
-      "file": "EdgeFit-Rekting-v1.2.2.8-win-arm64.zip",
-      "downloadUrl": "https://github.com/Rekting/EdgeFit/releases/download/v1.2.2.8/EdgeFit-Rekting-v1.2.2.8-win-arm64.zip",
-      "sha256": "e955e4e8e3f8d933c06d4f01ba20cfd33aad133589df0b85fbfc7c63e4cf78a0",
-      "executableSha256": "14170f9be1c7b53420d398aa78a24d1a570c8cad7a681b7004e36ee7e96f3879",
-      "sizeBytes": 52781920
+      "file": "EdgeFit-Rekting-v1.2.2.9-win-arm64.zip",
+      "downloadUrl": "https://github.com/Rekting/EdgeFit/releases/download/v1.2.2.9/EdgeFit-Rekting-v1.2.2.9-win-arm64.zip",
+      "sha256": "260007e9311e6afd7d0841fda0f32c2809978c07c609a55379ab338c07a7acf7",
+      "executableSha256": "07026b76849f5e902f38e5a7b6ba17488fed034b4e00011a3b415f34ab743508",
+      "sizeBytes": 52781913
     }
   ]
 }
